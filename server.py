@@ -31,7 +31,7 @@ import SimpleHTTPServer
 
 
 DEFAULT_PORT = 7272
-DEFAULT_HOST = 'demo-login-rebot.herokuapp.com'
+DEFAULT_HOST = 'localhost'
 
 
 class StoppableHttpServer(BaseHTTPServer.HTTPServer):
